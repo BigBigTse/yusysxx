@@ -1,4 +1,4 @@
-package com.util.stringutil;
+package com.util.collectionutil;
 
 import java.util.ArrayList;
 import java.util.List;
